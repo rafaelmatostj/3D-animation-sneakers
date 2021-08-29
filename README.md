@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="Travel" src="assets/img/print.png" width="100%">
+  <img alt="Travel" src="assets/img/print2.png" width="100%">
 </p>
 
 ## ✨ Technologies
